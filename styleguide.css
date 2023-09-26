@@ -2,9 +2,15 @@
     --light-white-t1: rgba(255, 255, 255, 1);
     --light-white-t2: rgba(249, 249, 249, 1);
     --light-white-t3: rgba(238, 236, 250, 1);
+
     --light-white-t4: rgba(66, 47, 138, 0.87);
     --light-indigo: rgba(116, 89, 217, 1);
     --light-black: rgba(17, 38, 60, 1);
+
+
+
+
+
     --background-dark-base-secondary: rgba(28, 28, 30, 1);
     --fill-dark-primary: rgba(120, 120, 128, 0.36);
     --opacity-50-white: rgba(0, 0, 0, 0.5);

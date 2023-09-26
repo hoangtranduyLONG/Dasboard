@@ -1042,6 +1042,8 @@
     font-family: var(--body-input-14px-r-font-family);
     font-weight: var(--body-input-14px-r-font-weight);
     color: var(--label-dark-tertiary);
+
+
     font-size: var(--body-input-14px-r-font-size);
     line-height: var(--body-input-14px-r-line-height);
     letter-spacing: var(--body-input-14px-r-letter-spacing);
